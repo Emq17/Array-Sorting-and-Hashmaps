@@ -207,18 +207,6 @@ public class StateCapitalProgram {
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
 -------------------------------------
 Part two: Sorting & Searching HashMap
 -------------------------------------
