@@ -1,4 +1,4 @@
-Part 1: Sorting Arrays
+# Part 1: Sorting Arrays
 
 // This line imports the required packages for the program
 
@@ -204,7 +204,7 @@ public class StateCapitalProgram {
 
 
 
-Part two: Sorting & Searching HashMap
+# Part two: Sorting & Searching HashMap
 
 
 
