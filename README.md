@@ -1,7 +1,6 @@
 # Array-Sorting-and-Hashmaps
 
 Part 1: 
-
 This program is a simple quiz game that tests the user's knowledge of US state capitals. The program first
 defines a static two-dimensional array called "stateCapitalPairs" which contains the names of US states as
 well as their corresponding capitals. Then, the program defines three methods. The first method, 
@@ -15,7 +14,6 @@ state-capital pairs, sort them, and prompt the user for answers. Overall, this p
 effective way to test and improve one's knowledge of US state capitals.
 
 Part 2:
-
 This Java code implements a simple quiz program that prompts the user to enter a state name and displays its 
 capital. The program uses a HashMap data structure to store the state-capital pairs, where the state name is the
 key and the capital name is the value. The program first initializes the may by adding state-capital pairs for 
