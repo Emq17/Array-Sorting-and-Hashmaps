@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://i.imgur.com/XRFSxb8.png" alt="Logo"/>
+<img src="https://i.imgur.com/bAzyBDo.png" alt="Logo"/>
 </p>
 
 <h1 align="center">Array Sorting And Hashmaps</h1>
